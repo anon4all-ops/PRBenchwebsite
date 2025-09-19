@@ -37,9 +37,7 @@ PRBench is a comprehensive web-based benchmark for evaluating probabilistic robu
 ![Landing Page](static/src/images/fig_wcr_pr.jpg)
 
 🌐 Live demo:  
-[Open PRBench Demo](https://github.com/wellzline/PRbenchwebsite)
 
-https://github.com/wellzline/PRbenchwebsite
 
 
 ## Project Structure
